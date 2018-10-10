@@ -1,4 +1,4 @@
-[Back to Main Page](https://ogoxhammerschild.github.io/)    
+[Back to Main Page](https://danielbortfeld.github.io/)    
 
 # Pathfinding demonstrated in the Console
 ***   
@@ -19,7 +19,7 @@
 # A*   
 This console application demonstrates the pathfinding algorithms BreadthFirst, BestFirst, Dijkstra and A\*. The picture below shows the result for a path searched with A\*. The green point represents the start of the path, the red point is the goal. The path itself is colored pink/purple. Dark red numbers have been taken from the open list and have been investigated for a path. White numbers have not been investigated. The numbers represent both the nodes and the cost of traversing the node. Black points can not be traversed.
 
-![astar](https://raw.githubusercontent.com/OgoxHammerschild/Console-Pathfinding/master/docs/images/AStarNew.PNG)   
+![astar](https://raw.githubusercontent.com/DanielBortfeld/Console-Pathfinding/master/docs/images/AStarNew.PNG)   
 
 <a name="Code"/>   
 
@@ -235,10 +235,10 @@ bool Pathfinder::AStar(std::vector<std::vector<Node*>>& graph, Node * start, Nod
 
 Further pages:    
 
-* [Etos Videos](https://ogoxhammerschild.github.io/Etos/)    
-* [CollisionManager for the MonoGame-Framework (C#)](https://ogoxhammerschild.github.io/Collision/)    
-* [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/DynamicDelegate/)    
+* [Etos Videos](https://danielbortfeld.github.io/Etos/)    
+* [CollisionManager for the MonoGame-Framework (C#)](https://danielbortfeld.github.io/Collision/)    
+* [Dynamic Delegate (C++)](https://danielbortfeld.github.io/DynamicDelegate/)    
 
 ***    
 
-[Back to Main Page](https://ogoxhammerschild.github.io/)    
+[Back to Main Page](https://danielbortfeld.github.io/)    
